@@ -1,0 +1,7 @@
+c:\users\mücahit\documents\visual studio 2015\Projects\ScreenSavers\Basic\bin\Debug\Basic.exe.config
+c:\users\mücahit\documents\visual studio 2015\Projects\ScreenSavers\Basic\obj\Debug\Basic.Properties.Resources.resources
+c:\users\mücahit\documents\visual studio 2015\Projects\ScreenSavers\Basic\obj\Debug\Basic.csproj.GenerateResource.Cache
+c:\users\mücahit\documents\visual studio 2015\Projects\ScreenSavers\Basic\bin\Debug\Basic.exe
+c:\users\mücahit\documents\visual studio 2015\Projects\ScreenSavers\Basic\bin\Debug\Basic.pdb
+c:\users\mücahit\documents\visual studio 2015\Projects\ScreenSavers\Basic\obj\Debug\Basic.exe
+c:\users\mücahit\documents\visual studio 2015\Projects\ScreenSavers\Basic\obj\Debug\Basic.pdb
