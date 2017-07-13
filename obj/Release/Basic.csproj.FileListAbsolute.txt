@@ -1,0 +1,8 @@
+C:\Users\Mücahit\Documents\Visual Studio 2017\Projects\ScreenSavers\Basic\bin\Release\Basic.exe.config
+C:\Users\Mücahit\Documents\Visual Studio 2017\Projects\ScreenSavers\Basic\bin\Release\Basic.exe
+C:\Users\Mücahit\Documents\Visual Studio 2017\Projects\ScreenSavers\Basic\bin\Release\Basic.pdb
+C:\Users\Mücahit\Documents\Visual Studio 2017\Projects\ScreenSavers\Basic\obj\Release\Basic.Configuration.resources
+C:\Users\Mücahit\Documents\Visual Studio 2017\Projects\ScreenSavers\Basic\obj\Release\Basic.Properties.Resources.resources
+C:\Users\Mücahit\Documents\Visual Studio 2017\Projects\ScreenSavers\Basic\obj\Release\Basic.csproj.GenerateResource.Cache
+C:\Users\Mücahit\Documents\Visual Studio 2017\Projects\ScreenSavers\Basic\obj\Release\Basic.exe
+C:\Users\Mücahit\Documents\Visual Studio 2017\Projects\ScreenSavers\Basic\obj\Release\Basic.pdb

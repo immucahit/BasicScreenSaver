@@ -5,3 +5,11 @@ c:\users\mücahit\documents\visual studio 2015\Projects\ScreenSavers\Basic\bin\D
 c:\users\mücahit\documents\visual studio 2015\Projects\ScreenSavers\Basic\bin\Debug\Basic.pdb
 c:\users\mücahit\documents\visual studio 2015\Projects\ScreenSavers\Basic\obj\Debug\Basic.exe
 c:\users\mücahit\documents\visual studio 2015\Projects\ScreenSavers\Basic\obj\Debug\Basic.pdb
+C:\Users\Mücahit\Documents\Visual Studio 2017\Projects\ScreenSavers\Basic\bin\Debug\Basic.exe.config
+C:\Users\Mücahit\Documents\Visual Studio 2017\Projects\ScreenSavers\Basic\bin\Debug\Basic.exe
+C:\Users\Mücahit\Documents\Visual Studio 2017\Projects\ScreenSavers\Basic\bin\Debug\Basic.pdb
+C:\Users\Mücahit\Documents\Visual Studio 2017\Projects\ScreenSavers\Basic\obj\Debug\Basic.Properties.Resources.resources
+C:\Users\Mücahit\Documents\Visual Studio 2017\Projects\ScreenSavers\Basic\obj\Debug\Basic.csproj.GenerateResource.Cache
+C:\Users\Mücahit\Documents\Visual Studio 2017\Projects\ScreenSavers\Basic\obj\Debug\Basic.exe
+C:\Users\Mücahit\Documents\Visual Studio 2017\Projects\ScreenSavers\Basic\obj\Debug\Basic.pdb
+C:\Users\Mücahit\Documents\Visual Studio 2017\Projects\ScreenSavers\Basic\obj\Debug\Basic.Configuration.resources
